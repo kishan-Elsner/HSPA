@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Frontend';
+
+  Property:any=
+  {
+      "Id":1,
+      "Type":"Hourse",
+      "Price":12000
+  }
 }
